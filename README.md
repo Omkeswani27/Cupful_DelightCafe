@@ -4,7 +4,8 @@ Welcome to the **Cupfull Delight Cafe** website repository! This is the digital 
 
 ## 🌟 Live Demo
 
-Check out the live demo of the website: [Cupfull Delight Cafe]([https://your-live-demo-link.com](https://omkeswani27.github.io/Cupful_DelightCafe/home.html))
+Check out the live demo of the website: [Cupfull Delight Cafe](https://omkeswani27.github.io/Cupful_DelightCafe/home.html)
+
 
 ## 🛠️ Project Overview
 
